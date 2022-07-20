@@ -1,7 +1,7 @@
 # CSE 11 SS1-2022 PA4 - Life of Cells
 **Due date: Tuesday, July 26 @ 11:59PM PST**
 
-**No slip day or late submission for approved and legitimate cases.**
+**No slip day or late submission except for approved and legitimate cases.**
 
 This is the final assignment of CSE 11 in SS1-2022 by Professor Cao at UCSD. 
 ## Provided Files
